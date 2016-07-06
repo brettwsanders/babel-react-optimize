@@ -140,7 +140,7 @@ MyComponent.propTypes = {
 ## Install
 
 ```sh
-$ npm install --save-dev babel-preset-react-optimize
+$ npm install --save babel-preset-react-optimize
 ```
 
 ## Usage
